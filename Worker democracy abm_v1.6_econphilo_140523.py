@@ -143,8 +143,8 @@ def main():
                               {'solidarist': 20, 'mercenary': 20, 'learner': 60},
                               {'solidarist': 30, 'mercenary': 10, 'learner': 60}
                                ]
-    radius_values = [0.02, 0.05, 0.10] # check whatever this is but ok for now
-    incubation_periods = [1] #can add more later, already redundant actually
+    radius_values = [0.02, 0.05, 0.10] 
+    incubation_periods = [1] #possibly redundant actually
     repetitions = 5 # can change
     results = []
 
